@@ -39,7 +39,8 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
    ```
    git clone https://github.com/KyloReneo/Crossing-River-Puzzle.git
-   
+   ```
+   ```
    cd Python-Solution
    ```
 
@@ -47,7 +48,8 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
    ```
    python -m venv venv
-   
+   ```
+   ```
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
@@ -55,7 +57,6 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
    ```
    python main.py
-  
    ```
 
 ## 📄 License
