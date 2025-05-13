@@ -37,8 +37,11 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
 1. Clone this repository:
 
-   ```bash
+   ```
    git clone https://github.com/KyloReneo/Crossing-River-Puzzle.git
+   ```
+
+   ```
    cd Python-Solution
    ```
 
@@ -46,14 +49,17 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
    ```
    python -m venv venv
+   ```
+
+   ```
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-## ▶️ How to Run
+## ▶️ How to Run:
 
-    ```
-    python main.py
-    ```
+```
+python main.py
+```
 
 ## 📄 License
 
