@@ -51,7 +51,7 @@ The goal is to move all characters from the **left bank** to the **right bank** 
 
 ## ▶️ How to Run
 
-    ```
+    ```bash
     python main.py
     ```
 
